@@ -11,6 +11,7 @@
 ## Table of Contents
 
 - [Installation](#installation)
+- [Usage](#usage)
 - [Contributing](#contributing)
 - [Testing](#testing)
 - [License](#license)
@@ -20,6 +21,9 @@
 ## Installation
 
 
+## Usage
+
+The app is deployed through Heroku, and can be found at https://budget-tracker-0724.herokuapp.com/.
 
 
 ## Contributing

@@ -16,7 +16,7 @@ app.use(express.json());
 app.use(express.static("public"));
 
 app.get("/", function(req, res) {
-  res.json(path.join(__dirname, "public/index.html"));
+  res.json(path.join(__dirname, "/public/index.html"));
 });
 
 mongoose.connect(
